@@ -1,0 +1,136 @@
+function test(){
+ 
+for(var i=0; i < 4;i++){
+     setTimeout(()=>{
+        console.log(i)
+      },1000);
+     }
+}
+ 
+
+2. {let a = 2;}
+ 
+console.log(a);
+
+
+3.  .function test(){
+    let a = 'hello';
+    let b = 'bye';
+    if(true){
+        let a = 'hello Sourav';
+        var b ='see you';
+        console.log(a);
+        console.log(b);
+    }
+    console.log(a);
+}
+
+4>   var x = 2;
+ 
+function fun(){
+
+console.log(x);
+
+var x= 20;
+ 
+}
+
+5> let user = {
+
+   name: 'akshay',
+
+   us1:()=>{
+
+   console.log('output 1', this.name)
+
+   },
+
+}
+ 
+user.us1();
+
+6> let user = {
+   name: 'akshay',
+   us1:()=>{
+   console.log('output 1', this.name)
+   },
+    us2(){
+   console.log('output 1', this.name)
+   }
+}
+ 
+user.us1();
+user.us2();
+
+7> // sort this in ascending order
+ 
+ 
+let obj =[
+ 
+{name:'jay'},
+{name:'abhi'},
+{name: 'Ram'}
+]
+
+8>  console.log('start')
+ 
+const promiseTest =  new Promise((resolve,reject)=>{
+ 
+console.log('get started');
+resolve('promise resolved');
+});
+ 
+ 
+promiseTest.then((res)=>{
+console.log(res);
+})
+ 
+setTimeOut(()=>{
+console.log('timer finished');
+})
+ 
+console.log('end');
+
+9>console.log('start')
+ 
+const promiseTest =  new Promise((resolve,reject)=>{
+ 
+console.log('get started');
+resolve('promise resolved');
+});
+setTimeOut(()=>{
+console.log('timer finished');
+})
+ 
+promiseTest.then((res)=>{
+console.log(res);
+})
+ 
+ 
+ 
+console.log('end');
+
+10>const [count,setCount] = useState(0);
+ 
+const handleClick =()=>{
+ 
+setCount(count+1);
+setCount(count+1);
+setCount(count+1);
+}
+ 
+return(
+<div>
+<button onClick={()=>handleClick()}>
+</button>
+<div>count:{count}</div>
+</div>
+)
+
+11> useMemo(()=>{
+// some expensive function
+},[arr])
+
+
+12>  what is reconciliation algorithm.
+13> what is diffing algorithm.

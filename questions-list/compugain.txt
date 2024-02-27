@@ -1,0 +1,17 @@
+1> What is component.
+2> Difference between functional component & class component.
+3> difference b/w props & state.
+4> lifecycle of class based components.
+5> what are all ways you can pass data into different components.
+6> difference b/w let, const, var.
+7> what is hoisting.
+8> what is clousures.
+17> what is destructuring.
+9> difference b/w object & array.
+10> difference b/w map & set.
+11> what is cors.
+12>describe mvc layer.
+13> what is middleware.
+14> how you ensure authentication security.
+15> difference b/w TCP & UDP.
+16>how will you control error in node js.

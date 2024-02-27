@@ -1,0 +1,19 @@
+Description
+ 
+Sr.Engineer (Frontend - ReactJS) is crucial role in product development team at Carrier. This role would focus on design and development of frontend application development by following Carrier software development standards.
+ 
+Primary responsibilities:
+Design, develop web applications using ReactJS
+Work closely with onsite, offshore, and cross functional teams, Product Management, backend developers, SQA teams to effectively use technologies to build and deliver high quality and on-time delivery
+Proactively Identify risks and failure modes early in the development lifecycle and develop POCs to mitigate the risks early in the program
+Assertive communication and team skills
+This individual be self-directed, highly motivated, and organized with strong analytical thinking and problem-solving skills, and an ability to work on multiple projects and function in a team environment.
+Keep an eye on NFR’s and ensure our product is meeting all required compliances as per Carrier standards.
+ 
+Experience and Skills Required:
+3-6 years of overall experience in web app Software product development
+At least 4 years of experience in ReactJS
+Solid working knowledge of using Cloud native resources for data retrieval and persistence.
+Thorough working knowledge in integrating with Azure, azure functions, Microservices etc.,
+Having work experience in Javascript frameworks is an added advantage.
+Experience in executing CI/CD processes

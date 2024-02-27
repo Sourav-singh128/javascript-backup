@@ -1,0 +1,85 @@
+**important questions -->https://www.keka.com/javascript-coding-interview-questions-and-answers
+-1> Advantages of react.
+0> strict equal vs loose equal.(==, ===, 6 falsy value ->(0,false, NaN, '',undefined, null)) --->https://codeburst.io/javascript-double-equals-vs-triple-equals-61d4ce5a121a
+1> Destructuring  -> https://www.freecodecamp.org/news/array-vs-object-destructuring-in-javascript/
+27> difference b/w regular function & arrow function --> https://dmitripavlutin.com/differences-between-arrow-and-regular-functions/ (hositing is missed in this link).
+2> clousure   -->  https://www.freecodecamp.org/news/lets-learn-javascript-closures-66feb44f6a44/,  https://dmitripavlutin.com/javascript-closure/
+26> best use of clousure --> https://stackoverflow.com/questions/2728278/what-is-a-practical-use-for-a-closure-in-javascript
+3> Debouncing  --> https://www.freecodecamp.org/news/javascript-debounce-example/ && https://www.freecodecamp.org/news/debouncing-explained/
+4> Virtual Dom -->  https://www.altogic.com/blog/what-is-the-virtual-dom-in-react-and-how-does-it-work
+5> var, let & const difference --> https://www.freecodecamp.org/news/var-let-and-const-whats-the-difference/
+6> difference b/w useState and useRef. --> 
+ https://designtechworld.medium.com/useref-vs-usestate-in-react-330539025245#:~:text=serve%20different%20purposes.-,useRef%20is%20primarily%20used%20to%20access%20and%20manipulate%20the%20DOM,renders%20when%20the%20state%20updates.
+30> First class Function.  -->
+7> Rest parameter --> https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/rest_parameters
+32> Destructuring. -->
+8> Controlled and Uncontrolled component react. ----> https://www.geeksforgeeks.org/controlled-vs-uncontrolled-components-in-reactjs/
+9> Infinite Scroll --> https://blog.logrocket.com/3-ways-implement-infinite-scroll-react/
+10> Redux -> SimpliLearn & free code camp.  https://www.freecodecamp.org/news/redux-for-beginners-the-brain-friendly-guide-to-redux/
+11> Prototype inheritance --->  https://javascript.info/prototype-inheritance ,  https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain
+12> Higher order component(react) ---> https://www.smashingmagazine.com/2020/06/higher-order-components-react/
+13> Deep clone vs shallow clone ---> https://www.javatpoint.com/shallow-copy-and-deep-copy-in-javascript#:~:text=ADVERTISEMENT-,In%20JavaScript%2C%20there%20are%20two%20ways%20to%20copy%20objects%3A%20shallow,and%20nested%20objects%20or%20arrays.
+14> Authentication (jwt)  ---> https://blog.theashishmaurya.me/handling-jwt-access-and-refresh-token-using-axios-in-react-app
+15> Implement your own useState ---> https://dev.to/miki-digital/creating-a-usestate-hook-from-scratch-b39
+16> This keyword.  ---> https://www.freecodecamp.org/news/the-this-keyword-in-javascript/
+17> react Memo ex -->  https://hygraph.com/blog/react-memo
+18> useMemo ex --> https://dmitripavlutin.com/react-usememo-hook/
+17> callback/ callback hell.
+18> promises/ async/await
+19> create one custom hooks 
+28>difference b/w useCallback & useMemo do examples. ---> https://www.linkedin.com/pulse/exploring-differences-between-usememo-usecallback-hooks-rahul-saxena/
+20> what is profiler in react? & how change in props render component find out.?
+21> Is conditional rendering is important & info about react strict mode .
+22> react pure components & side effects properly & usereducer hook.
+23> strict mode in react. <StrictMode></StrictMode> ---> https://www.knowledgehut.com/blog/web-development/react-strict-mode
+24> HoC(higher order component)--> https://www.smashingmagazine.com/2020/06/higher-order-components-react/
+25> React topics-> https://www.pragimtech.com/blog/reactjs/profiler-in-react/ (here check the sidebar).
+29> useDefferedValue -->
+31> ref & (Forward ref)* -->  https://blog.logrocket.com/use-forwardref-react/
+
+how one way binding in react.
+what are all ways to improve react efficiency.?
+virtual dom.  https://www.geeksforgeeks.org/reactjs-virtual-dom/
+react portal.  --> https://blog.logrocket.com/learn-react-portals-example/
+useReducer.  --> https://www.w3schools.com/react/react_usereducer.asp
+react finder(something).
+how you optimize react
+use of key.
+uses of hooks/why to use hooks.
+difference b/w class component & functional component.
+router.
+
+node middleware, setImediate, how to prevent memory loss, event related.
+40> Implement multiselect in react. --> https://ej2.syncfusion.com/react/documentation/multi-select/getting-started,
+41> suspense, streaming server rendering, and transitions.
+42> explicit binding. (call, bind, apply)
+43> difference b/w useMemo() & React.memo() in react  ---> https://deadsimplechat.com/blog/memo-vs-usememo-in-react/#:~:text=To%20summarize%20the%20difference%2C%20the,rendering%20of%20the%20component%20itself.
+////////////////////////////////////////////////////////////////////////////////////
+
+incedo questions list.
+
+1> difference b/w fecth & axios.
+2> what is pure component in react & how to implement pure component in functional component.
+3> what is componentShouldUpdate() function.
+4> hoisting, clouser examples, currying, rest operation & spread operator. 
+5> useMemo & useCallback difference. what is React.Memo.?
+6> let, const,var, is hoisting happen with const & let.?
+7> difference b/w async/await & (promise).  {promise methods, promiseAll()}.?
+8> Name atleast 2 ES6 features.?
+9> how to optimize multiple setStates (take an example of form(number input, password input, email input))
+10>what all features Es6 features.
+Feedback give short one keyword answer.(by yasar.)
+
+ (ispace questions.)*****
+ 1> explain about react. (why react, single page application).
+ 2> difference b/w undefined & null.
+ 3> if react is SPA when you bookmark any page, how server will now know, which page to bookmark.?
+ 4> how to render image with invariable size.?
+ 5> how many ways you can assign object.(shalow copy)
+ 6> this keyword.
+ 7> how many types of hooks.
+ 8> About Redux.
+ 9> how many ways can create function (prasad question).
+2nd round ---> prepare on agile method(thoroghly), my roles & responsibility. (questions will be on javascript & react.)
+10> difference b/w states and props.
+11> how can you optimize react forms if there are multiple inputs.?   ---> use state object instead of creating usestate for every single value.

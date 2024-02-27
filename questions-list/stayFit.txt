@@ -1,0 +1,25 @@
+StayFit question.
+
+React 
+component.
+context.
+React fragment.
+react version , new features, why use react(compare to angular)
+what all hooks you have used. apart from useEffect, useState,
+prop drilling.
+lifecycle used in useEffect.
+
+javascript.
+higher order function.
+console.log(a)
+variable outpout var a = 10
+hoisting.
+local storage & session storage.
+
+html/css
+
+meta tag
+void element
+z-index.
+box modelling.
+how to style mobile view.

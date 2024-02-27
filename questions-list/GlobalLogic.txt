@@ -1,0 +1,27 @@
+1> difference between <script async> & <script defer>
+
+2> what is first class function.
+
+
+
+3> Routing(scenario -> different pages how will you pass different (title & description))
+
+4> what is pure component.(pure component is class based or function based). ?
+
+5> show current age (input tag birth age -> 1992) practical.
+
+6> difference between normal function & arrow function.
+
+7> what is uncontrolled component(useRef interviewer himself said) and controlled component.
+
+output based question.
+
+8>
+console.log(0.1*3 == 0.3) // false
+console.log(5<4<3)  // true
+console.log(5>4>3)  // false
+console.log('b'+'a'+ +'a'+'a')  baNaNa
+
+9>what are application layer in node js.
+
+10> About Redux also & context api.
