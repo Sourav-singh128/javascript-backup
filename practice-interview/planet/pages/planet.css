@@ -1,0 +1,12 @@
+population-icon:hover {
+  /* cursor: pointer; */
+}
+
+toast :hover {
+  cursor: pointer;
+  display: flex;
+}
+
+.list :hover {
+  background-color: blue;
+}
